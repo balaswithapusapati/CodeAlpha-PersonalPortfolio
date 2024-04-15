@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Amazon Clone",
+    "desc": "Fully functional Amazon clone app implementing various design patterns. Developed using Java, XML, Firebase, and MVVM architecture.",
+    "image": "https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1689143214/catalog/1679013055140724736/qxdiepyovizfkcu0vzcz.jpg",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/your-profile-androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/your-github-username/amazon-clone"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "Comprehensive weather application providing accurate forecasts. Built with Java, XML, OpenWeather API, and follows MVVM architecture.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsjZ37HBqaz29rSsqT8qlCIy1CID5LFxYoZ1McvdWNIQ&s",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/your-profile-androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/balaswithapusapati/Weather-App"
+    }
+  },
+  {
+    "name": "Sliding Puzzle",
+    "desc": "Engaging sliding puzzle game with intuitive design and smooth animations. Developed using Java and XML.",
+    "image": "https://m.media-amazon.com/images/I/71yIgXFu0bL._AC_UF1000,1000_QL80_.jpg",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/your-profile-androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/balaswithapusapati/Sliding-Puzzle"
+    }
+  },
+  {
+    "name": "Address Book",
+    "desc": "Android application for managing contacts and addresses efficiently. Implemented using Java, SQLite, and follows MVVM architecture.",
+    "image": "addressbook",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/your-profile-androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/balaswithapusapati/Address-book"
+    }
+  },
+  {
+    "name": "Photography Registration",
+    "desc": "Registration app tailored for photography events, ensuring smooth attendee management. Developed with Java, XML, Firebase, and RoomDB.",
+    "image": "photographyregistration",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/your-profile-androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/balaswithapusapati/Photography-Registration"
+    }
+  }
+]
